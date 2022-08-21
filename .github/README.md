@@ -89,7 +89,7 @@ These dotfiles are made with love, for sure.
       > Clone this repository
 
       ```shell
-      git clone https://github.com/rxyhn/dotfiles.git
+      git clone https://github.com/israelt/dotfiles_ok
       cd dotfiles
       ```
 
