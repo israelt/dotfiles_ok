@@ -90,6 +90,7 @@ These dotfiles are made with love, for sure.
 
       ```shell
       git clone https://github.com/israelt/dotfiles_ok
+      mv ./dotfiles_ok ./dotfiles
       cd dotfiles
       ```
 
